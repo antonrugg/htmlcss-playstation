@@ -32,5 +32,9 @@ img.ar-active-img:hover, img.ar-active-img:active, img.ar-active-img:focus{
     padding: 0.5px;
 }
 
+div.ar-active-thumb-img:hover, img.ar-active-thumb-img:active, img.ar-active-thumb-img:focus{
+    border-bottom: 2px solid blue;
+}
+
 
 
