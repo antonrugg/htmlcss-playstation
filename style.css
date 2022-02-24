@@ -23,8 +23,13 @@ header li{
 }
 
 .jumbotron *{
-    margin: 1rem;
+    margin: 1rem 0rem;
     
+}
+
+img.ar-active-img:hover, img.ar-active-img:active, img.ar-active-img:focus{
+    border: 2px solid blue;
+    padding: 0.5px;
 }
 
 
