@@ -7,3 +7,25 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
 }
+
+header li{
+    padding: 0rem 0.3rem;
+}
+
+.jumbotron{
+    background-image: url('./img/jumbo-bg.png');
+    height: 75vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 1.5rem;
+   
+}
+
+.jumbotron *{
+    margin: 1rem;
+    
+}
+
+
+
