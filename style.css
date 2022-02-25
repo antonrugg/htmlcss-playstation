@@ -53,5 +53,23 @@ div.ar-active-thumb-img:hover, img.ar-active-thumb-img:active, img.ar-active-thu
     border-bottom: 2px solid blue;
 }
 
+footer ul{
+    list-style-type: none;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    padding-left: 2rem;
+    margin-top: 1rem;
+}
+
+footer li{
+    padding: 0.2rem 0rem;
+}
+
+.language-globe{
+    height: 20px;
+    width: 20px;
+    margin-right: 0.4rem;
+}
+
 
 
