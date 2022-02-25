@@ -40,7 +40,7 @@ background-image: url('./img/it-takes-two-hero-banner-desktop.jpg');
 }
 
 .jumbotron-returnal ,jumbotron-takes-two *{
-    margin: 1rem 0rem;
+    padding: 3rem 0rem;
     
 }
 
