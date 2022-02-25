@@ -74,5 +74,11 @@ footer li{
     margin-right: 0.4rem;
 }
 
+.icon-drop-container{
+    width: fit-content;
+}
 
+.p-dropdown-menu{
+    padding: 3rem 4rem 3rem 4rem;
+}
 
